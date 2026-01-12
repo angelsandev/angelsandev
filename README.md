@@ -22,7 +22,7 @@ Soy un apasionado de la tecnología con un perfil híbrido único:
 
 ## 🛠️ Mis proyectos
 
-### Portfolio
+### PORTFOLIO
 [![Portfolio Ángel Sánchez](https://img.shields.io/badge/Visitar-Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/portfolio)
 <br>
 Aquí muestro toda mi experiencia laboral y mi Formación Académica completa, utilizando:
@@ -41,7 +41,7 @@ En esta web se recogen datos de una API externa y se muestran en cartas con esti
 * Por ejemplo: seleccionas `personajes`, introduces `luk` y buscará todos los personajes que contengan ese texto => mostrará los datos de **Luke SkyWalker**.
 
 
-### tecnoplc.com
+### TECNOPLC.COM
 [![Visitar Web](https://img.shields.io/badge/Visitar-TecnoPLC.com-0077b5?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.tecnoplc.com)
 <br>
 Mi web. La he creado desde cero y la sigo manteniendo, con Wordpress:
@@ -50,7 +50,7 @@ Mi web. La he creado desde cero y la sigo manteniendo, con Wordpress:
 * Tutoriales, proyectos descargables y mucho más.
 
 
-
+---
 
 ### 📬 Conectemos
 Si tienes alguna duda o propuesta...  ¡Escríbeme!
@@ -84,9 +84,7 @@ Si tienes alguna duda o propuesta...  ¡Escríbeme!
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrum&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=flat-square&logo=ubuntu&logoColor=white)
@@ -107,5 +105,5 @@ Si tienes alguna duda o propuesta...  ¡Escríbeme!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tecnoplc) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tecnoplc/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tecnoplc) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geletesan@hotmail.com) 
+[![Email](https://img.shields.io/badge/Email-geletesan@hotmail.com-red?style=flat-square&logo=gmail)](mailto:geletesan@hotmail.com)
 
