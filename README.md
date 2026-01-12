@@ -1,18 +1,10 @@
 # 💫 ¡Hola! Soy Ángel 👋
----
 
 ### 👨‍💻 Sobre mí
 Soy un apasionado de la tecnología con un perfil híbrido único:
 - 🤖 **Experto en Automatización Industrial:** +20 años programando en entornos industriales (PLC).
 - 🌐 **Desarrollador Web en evolución:** +3 años, enfocado plenamente en el ecosistema de aplicaciones web.
-- 🚀 **Perfil:** Combinación de programación industrial con la flexibilidad del desarrollo moderno.
-
----
-
-### 🌐 Mi Portfolio Web
-[![Website](https://img.shields.io/badge/Visitar_Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/portfolio)
-
-> 💡 **Nota:** También puedes ver el código fuente del proyecto [aquí](https://github.com/angelsandev/portfolio).
+- 🚀 **Perfil:** Combinación de programación industrial utilizando tecnologías de desarrollo web: **HTML**, **CSS** y **JavaScript**.
 
 ---
 
@@ -22,55 +14,70 @@ Soy un apasionado de la tecnología con un perfil híbrido único:
 - 🎓 **Formación:** Cursando 2º de **DAW** (Desarrollo de Aplicaciones Web).
 - 💼 **Prácticas:** Realizando prácticas en empresa para aportar valor y seguir creciendo.
 - 🏗️ **Infraestructura:** Desplegando soluciones y arquitecturas en **AWS**.
-- 🛠️ **Fullstack:** Perfeccionando el flujo de trabajo entre Frontend (Vue.js) y Backend (Laravel).
+- 🛠️ **Fullstack:** Perfeccionando el flujo de trabajo entre Frontend (Vue.js) y Backend (Laravel y PHP).
 - ✍️ **Contenido:** Ejecutando proyecto final de curso: Aplicación Web para entrenadores de Fútbol.
 - ✍️ **Contenido:** Manteniendo y evolucionando mi proyecto personal [tecnoplc.com](https://www.tecnoplc.com).
 
 ---
+
+## 🛠️ Mis proyectos
+
+### Portfolio
+[![Portfolio Ángel Sánchez](https://img.shields.io/badge/Visitar-Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/portfolio)
+<br>
+Aquí muestro toda mi experiencia laboral y mi Formación Académica completa, utilizando:
+* Una carta de presentación.
+* Una evolución técnica: de la **programación industrial (PLC/HMI)** hacia el **desarrollo de aplicaciones web**.
+* Mis habilidades y aptitudes recogidas en el camino.
+
+
+### STAR WARS API 
+[![Ver Demo](https://img.shields.io/badge/Demo-Star_Wars_API-yellow?style=for-the-badge&logo=starwars)](https://angelsandev.github.io/StarWars_API/)
+<br>
+En esta web se recogen datos de una API externa y se muestran en cartas con estilo:
+* Acceder a una API externa de `STAR WARS`.
+* Seleccionar información de personajes, naves y planetas de **STAR WARS**.
+* Mostrar todos estos datos recibidos en cartas con una bonita presentación.
+* Por ejemplo: seleccionas `personajes`, introduces `luk` y buscará todos los personajes que contengan ese texto => mostrará los datos de **Luke SkyWalker**.
+
+
+### tecnoplc.com
+[![Visitar Web](https://img.shields.io/badge/Visitar-TecnoPLC.com-0077b5?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.tecnoplc.com)
+<br>
+Mi web. La he creado desde cero y la sigo manteniendo, con Wordpress:
+* Dedicada a automatización y programación de PLC y HMI.
+* Programación Siemens.
+* Tutoriales, proyectos descargables y mucho más.
+
+
+
 
 ### 📬 Conectemos
 Si tienes alguna duda o propuesta...  ¡Escríbeme!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tecnoplc/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tecnoplc) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geletesan@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-geletesan@hotmail.com-red?style=flat-square&logo=gmail)](mailto:geletesan@hotmail.com)
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 
-## Desarrollo de Aplicaciones Web
+| Desarrollo Web Principal | Aprendiendo Actualmente | Otros Lenguajes |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+---
 
-### Lenguajes de Programación que sigo aprendiendo actualmente...
+### 🌐 CMS & Herramientas de Datos
+| CMS | Bases de Datos | Formatos |
+| :--- | :--- | :--- |
+| ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
+| ![Divi](https://img.shields.io/badge/Divi-8250FF?style=flat-square&logo=divi&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white) | ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white) |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Lenguajes de Programación que he utilizado alguna vez...
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-### También he desarrollado Web con CMS...
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Divi](https://img.shields.io/badge/Divi-8250FF?style=flat-square&logo=divi&logoColor=white)
 
 
 ## Metodologías & Herramientas
