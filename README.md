@@ -20,9 +20,10 @@ Soy un apasionado de la tecnología con un perfil híbrido único:
 
 - 🔭 **Portfolio:** Manteniendo mi [Portfolio Profesional](https://github.com/angelsandev/portfolio.git) con mis últimos proyectos.
 - 🎓 **Formación:** Cursando 2º de **DAW** (Desarrollo de Aplicaciones Web).
-- 💼 **Prácticas:** En búsqueda activa de una empresa para aportar valor y seguir creciendo.
+- 💼 **Prácticas:** Realizando prácticas en empresa para aportar valor y seguir creciendo.
 - 🏗️ **Infraestructura:** Desplegando soluciones y arquitecturas en **AWS**.
 - 🛠️ **Fullstack:** Perfeccionando el flujo de trabajo entre Frontend (Vue.js) y Backend (Laravel).
+- ✍️ **Contenido:** Ejecutando proyecto final de curso: Aplicación Web para entrenadores de Fútbol.
 - ✍️ **Contenido:** Manteniendo y evolucionando mi proyecto personal [tecnoplc.com](https://www.tecnoplc.com).
 
 ---
