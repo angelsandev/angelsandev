@@ -1,109 +1,102 @@
-# 💫 ¡Hola! Soy Ángel 👋
+# 💫 ¡Hola! Soy Ángel Sánchez 👋
 
-### 👨‍💻 Sobre mí
-Soy un apasionado de la tecnología con un perfil híbrido único:
-- 🤖 **Experto en Automatización Industrial:** +20 años programando en entornos industriales (PLC).
-- 🌐 **Desarrollador Web en evolución:** +3 años, enfocado plenamente en el ecosistema de aplicaciones web.
-- 🚀 **Perfil:** Combinación de programación industrial utilizando tecnologías de desarrollo web: **HTML**, **CSS** y **JavaScript**.
+### 👨‍💻 Software Engineer | Industrial Automation Expert
+Transformando 20 años de liderazgo técnico en **Automatización Industrial (PLC y HMI)** en soluciones digitales modernas. Actualmente, aportando valor en **Electric Automation Network (EAN)** mediante el desarrollo de software que une la precisión industrial con la agilidad del ecosistema web Full-Stack.
+
+Mi objetivo es optimizar procesos complejos mediante código limpio, arquitecturas escalables y una visión 360° del ciclo de vida del dato.
+
 
 ---
 
-### 🚀 ¿En qué estoy trabajando actualmente?
+### 🔭 ¿En qué estoy trabajando actualmente?
 
-- 🔭 **Portfolio:** Manteniendo mi [Portfolio Profesional](https://github.com/angelsandev/portfolio.git) con mis últimos proyectos.
-- 🎓 **Formación:** Cursando 2º de **DAW** (Desarrollo de Aplicaciones Web).
-- 💼 **Prácticas:** Realizando prácticas en empresa para aportar valor y seguir creciendo.
-- 🏗️ **Infraestructura:** Desplegando soluciones y arquitecturas en **AWS**.
-- 🛠️ **Fullstack:** Perfeccionando el flujo de trabajo entre Frontend (Vue.js) y Backend (Laravel y PHP).
-- ✍️ **Contenido:** Ejecutando proyecto final de curso: Aplicación Web para entrenadores de Fútbol.
-- ✍️ **Contenido:** Manteniendo y evolucionando mi proyecto personal [tecnoplc.com](https://www.tecnoplc.com).
+- 💼 **Prácticas Profesionales:** Desarrollando soluciones de software en **Electric Automation Network (EAN)**, integrando procesos industriales y desarrollo web.
+- ⚡ **Backend & API:** Construyendo un **FastAPI Starter Kit** con Python, enfocado en alto rendimiento y escalabilidad (evaluando integración con **React/Next.js**).
+- ⚽ **Gestión Deportiva:** Plataforma Full-Stack para entrenadores de fútbol (Proyecto Final DAW) con arquitectura de datos compleja.
+- 🐍 **Automatización:** Optimizando herramientas de **Web Scraping** para auditorías masivas de productos EAN.
+- 🏗️ **Cloud:** Desplegando infraestructuras y servicios gestionados en **AWS**.
+- 🌐 **Comunidad:** Manteniendo [tecnoplc.com](https://www.tecnoplc.com), portal de referencia en automatización industrial.
 
 ---
 
-## 🛠️ Mis proyectos
+## 🛠️ Proyectos Destacados
 
-### PORTFOLIO
-[![Portfolio Ángel Sánchez](https://img.shields.io/badge/Visitar-Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/portfolio)
+### 💼 Professional Portfolio
+[![Visitar Portfolio](https://img.shields.io/badge/PORTFOLIO-ACCEDER%20AQUÍ%20--%3E-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/portfolio)
 <br>
-Aquí muestro toda mi experiencia laboral y mi Formación Académica completa, utilizando:
-* Una carta de presentación.
-* Una evolución técnica: de la **programación industrial (PLC/HMI)** hacia el **desarrollo de aplicaciones web**.
-* Mis habilidades y aptitudes recogidas en el camino.
 
+Mi ecosistema digital donde proyecto mi transición de la automatización industrial al desarrollo Full-Stack.
+* **Tech:** HTML5 Semántico, JS, CSS3, Responsive Design.
 
-### STAR WARS API 
-[![Ver Demo](https://img.shields.io/badge/Demo-Star_Wars_API-yellow?style=for-the-badge&logo=starwars)](https://angelsandev.github.io/StarWars_API/)
+---
+
+### 🕷️ Web Scraping & Data Automation
+[![Ver Repositorio](https://img.shields.io/badge/GITHUB-VER%20REPOSITORIO%20--%3E-blue?style=for-the-badge&logo=github)](https://github.com/angelsandev/comparador_web)
 <br>
-En esta web se recogen datos de una API externa y se muestran en cartas con estilo:
-* Acceder a una API externa de `STAR WARS`.
-* Seleccionar información de personajes, naves y planetas de **STAR WARS**.
-* Mostrar todos estos datos recibidos en cartas con una bonita presentación.
-* Por ejemplo: seleccionas `personajes`, introduces `luk` y buscará todos los personajes que contengan ese texto => mostrará los datos de **Luke SkyWalker**.
 
+Herramienta en Python para la extracción masiva de datos técnicos en entornos EAN.
+* **Impacto:** Reducción del tiempo de auditoría manual en un **95%**.
+* **Tech:** Python, Selenium, Automatización de procesos.
 
-### TECNOPLC.COM
-[![Visitar Web](https://img.shields.io/badge/Visitar-TecnoPLC.com-0077b5?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.tecnoplc.com)
+---
+
+### ⚽ Gestión Deportiva: App Entrenadores
+[![En Desarrollo](https://img.shields.io/badge/STATUS-soft%20EN%20DESARROLLO-orange?style=for-the-badge)](https://github.com/angelsandev/football-manager)
 <br>
-Mi web. La he creado desde cero y la sigo manteniendo, con Wordpress:
-* Dedicada a automatización y programación de PLC y HMI.
-* Programación Siemens.
-* Tutoriales, proyectos descargables y mucho más.
+
+Plataforma Full-Stack para la gestión de equipos, entrenamientos y tácticas.
+* **Tech:** Vue.js, Laravel, MySQL. Mi proyecto final de DAW.
+
+---
+
+### ☁️ El Tiempo API
+[![Ver Demo](https://img.shields.io/badge/DEMO-ACCEDER%20A%20EL%20TIEMPO-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/Weather_API/)
+<br>
+
+Aplicación de consulta meteorológica con geolocalización y consumo de APIs externas.
+* **Tech:** JavaScript ES6, Fetch API, CSS Dinámico.
+
+---
+
+### ⚙️ TecnoPLC.com
+[![Visitar Web](https://img.shields.io/badge/WEB-WWW.TECNOPLC.COM%20--%3E-orange?style=for-the-badge&logo=wordpress)](https://www.tecnoplc.com)
+<br>
+
+Portal líder en formación sobre automatización industrial y programación de PLCs.
+* **Tech:** WordPress, SEO, Gestión de contenidos técnicos.
+
+---
+
+### 🛸 Star Wars Explorer
+[![Ver Demo](https://img.shields.io/badge/DEMO-ACCEDER%20A%20STARWARS%20API-yellow?style=for-the-badge&logo=starwars)](https://angelsandev.github.io/StarWars_API/)
+<br>
+
+Explorador de datos de la saga Star Wars con filtrado inteligente y asincronía.
+
+---
+## 💻 Stack Técnico & Herramientas
+
+| 🌐 Frontend & Backend | ⚙️ Infraestructura & DB | 🛠️ Methodologies & Tools |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kanban](https://img.shields.io/badge/KANBAN-0079BF?style=for-the-badge&logo=trello&logoColor=white) |
+| ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Mongo](https://img.shields.io/badge/MONGO-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Planner](https://img.shields.io/badge/PLANNER-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
+| ![Vue](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/UBUNTU-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![D.Ocean](https://img.shields.io/badge/D.OCEAN-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) | ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FASTAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white) | ![Apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white) | ![Design](https://img.shields.io/badge/FIGMA%20%7C%20CANVA-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+
+
+
 
 
 ---
 
 ### 📬 Conectemos
-Si tienes alguna duda o propuesta...  ¡Escríbeme!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tecnoplc/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tecnoplc) 
-[![Email](https://img.shields.io/badge/Email-geletesan@hotmail.com-red?style=flat-square&logo=gmail)](mailto:geletesan@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tecnoplc/) [![Web](https://img.shields.io/badge/Web-TecnoPLC.com-orange?style=for-the-badge&logo=wordpress)](https://www.tecnoplc.com) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:geletesan@hotmail.com)
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
-
-| Desarrollo Web Principal | Aprendiendo Actualmente | Otros Lenguajes |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | |
-
----
-
-### 🌐 CMS & Herramientas de Datos
-| CMS | Bases de Datos | Formatos |
-| :--- | :--- | :--- |
-| ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
-| ![Divi](https://img.shields.io/badge/Divi-8250FF?style=flat-square&logo=divi&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white) | ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white) |
-
-
-
-## Metodologías & Herramientas
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrum&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=flat-square&logo=ubuntu&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white) 
-![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tecnoplc) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tecnoplc/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tecnoplc) 
-[![Email](https://img.shields.io/badge/Email-geletesan@hotmail.com-red?style=flat-square&logo=gmail)](mailto:geletesan@hotmail.com)
 
