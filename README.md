@@ -1,6 +1,6 @@
 # 💫 ¡Hola! Soy Ángel Sánchez 👋
 
-### 👨‍💻 Software Engineer | Industrial Automation Expert
+### 👨‍💻 Software Engineer | Full-Stack
 Transformando 20 años de liderazgo técnico en **Automatización Industrial (PLC y HMI)** en soluciones digitales modernas. Actualmente, aportando valor en **Electric Automation Network (EAN)** mediante el desarrollo de software que une la precisión industrial con la agilidad del ecosistema web Full-Stack.
 
 Mi objetivo es optimizar procesos complejos mediante código limpio, arquitecturas escalables y una visión 360° del ciclo de vida del dato.
@@ -41,7 +41,7 @@ Herramienta en Python para la extracción masiva de datos técnicos en entornos 
 ---
 
 ### ⚽ Gestión Deportiva: App Entrenadores
-[![En Desarrollo](https://img.shields.io/badge/STATUS-soft%20EN%20DESARROLLO-orange?style=for-the-badge)](https://github.com/angelsandev/football-manager)
+![En Desarrollo](https://img.shields.io/badge/STATUS-soft%20EN%20DESARROLLO-orange?style=for-the-badge)
 <br>
 
 Plataforma Full-Stack para la gestión de equipos, entrenamientos y tácticas.
@@ -50,7 +50,7 @@ Plataforma Full-Stack para la gestión de equipos, entrenamientos y tácticas.
 ---
 
 ### ☁️ El Tiempo API
-[![Ver Demo](https://img.shields.io/badge/DEMO-ACCEDER%20A%20EL%20TIEMPO-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/Weather_API/)
+[![Ver Demo](https://img.shields.io/badge/DEMO-ACCEDER%20A%20EL%20TIEMPO-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelsandev.github.io/ELTIEMPO/)
 <br>
 
 Aplicación de consulta meteorológica con geolocalización y consumo de APIs externas.
@@ -99,4 +99,7 @@ Explorador de datos de la saga Star Wars con filtrado inteligente y asincronía.
 
 ---
 
+## ✍️ Autor
+Hecho con ❤️ por [**Ángel Sánchez Guillén**](https://github.com/angelsandev)
 
+[![Email](https://img.shields.io/badge/Email-geletesan@hotmail.com-red?style=flat-square&logo=gmail)](mailto:geletesan@hotmail.com)
